@@ -1,4 +1,4 @@
-from model.ST3DNEW import *
+from ST3DNEW import *
 from utils import *
 import argparse
 import configparser
